@@ -1,0 +1,24 @@
+{
+  "name": "recrudx",
+  "version": "0.0.1",
+  "description": "React.js+Redux components for CRUD operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemol/recrudx.git"
+  },
+  "keywords": [
+    "React.js",
+    "Redux",
+    "Crud"
+  ],
+  "author": "Leza Morais Lutonda (Lemol-C)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lemol/recrudx/issues"
+  },
+  "homepage": "https://github.com/lemol/recrudx#readme"
+}
